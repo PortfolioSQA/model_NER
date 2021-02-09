@@ -1,0 +1,242 @@
+{"text":"neural_network","answer":"accept","_input_hash":-985022579,"_task_hash":1170356636}
+{"text":"decision_tree","answer":"accept","_input_hash":586524735,"_task_hash":1570568251}
+{"text":"random_forest","answer":"accept","_input_hash":1360454248,"_task_hash":-1443677144}
+{"text":"ought","meta":{"score":0},"_input_hash":1959856811,"_task_hash":1185436914,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"ta","meta":{"score":0},"_input_hash":719943344,"_task_hash":58705349,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"does","meta":{"score":0},"_input_hash":-2079885618,"_task_hash":-1201112346,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"dare","meta":{"score":0},"_input_hash":62560757,"_task_hash":1574308135,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"doin","meta":{"score":0},"_input_hash":-501034240,"_task_hash":401669431,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"are","meta":{"score":0},"_input_hash":2090809870,"_task_hash":1085477779,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"has","meta":{"score":0},"_input_hash":1073603555,"_task_hash":161720900,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"not","meta":{"score":0},"_input_hash":-441412227,"_task_hash":557917447,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"we","meta":{"score":0},"_input_hash":517814815,"_task_hash":1120082003,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"am","meta":{"score":0},"_input_hash":167373396,"_task_hash":1733852432,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"lovin","meta":{"score":0},"_input_hash":142653968,"_task_hash":1840484380,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"did","meta":{"score":0},"_input_hash":-1284011795,"_task_hash":-228019800,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"sha","meta":{"score":0},"_input_hash":-868404387,"_task_hash":24506694,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"y","meta":{"score":0},"_input_hash":2016919357,"_task_hash":1955971921,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"na","meta":{"score":0},"_input_hash":1015630174,"_task_hash":1273923702,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"nothin","meta":{"score":0},"_input_hash":-1242699596,"_task_hash":-514730267,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"have","meta":{"score":0},"_input_hash":-416252709,"_task_hash":292156181,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"could","meta":{"score":0},"_input_hash":-1084682554,"_task_hash":-1485536181,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"ai","meta":{"score":0},"_input_hash":-1543822807,"_task_hash":2143498364,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"can","meta":{"score":0},"_input_hash":1267838506,"_task_hash":234668234,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"does","meta":{"score":0},"_input_hash":-2079885618,"_task_hash":-1201112346,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"somethin","meta":{"score":0},"_input_hash":363249160,"_task_hash":1186169265,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"may","meta":{"score":0},"_input_hash":516114863,"_task_hash":1880609264,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"how","meta":{"score":0},"_input_hash":1360335703,"_task_hash":1397511123,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"wo","meta":{"score":0},"_input_hash":-2050708257,"_task_hash":70379129,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"gon","meta":{"score":0},"_input_hash":-947719476,"_task_hash":1361938789,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"ought","meta":{"score":0},"_input_hash":1959856811,"_task_hash":1185436914,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"it","meta":{"score":0},"_input_hash":-781753652,"_task_hash":431479912,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"em","meta":{"score":0},"_input_hash":1823540398,"_task_hash":-7286135,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"nt","meta":{"score":0},"_input_hash":364139271,"_task_hash":-1589990927,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"ll","meta":{"score":0},"_input_hash":-877253534,"_task_hash":-101791,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"nuff","meta":{"score":0},"_input_hash":-490535719,"_task_hash":2050439678,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"na","meta":{"score":0},"_input_hash":1015630174,"_task_hash":1273923702,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"could","meta":{"score":0},"_input_hash":-1084682554,"_task_hash":-1485536181,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"may","meta":{"score":0},"_input_hash":516114863,"_task_hash":1880609264,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"do","meta":{"score":0},"_input_hash":1823551004,"_task_hash":-1041840857,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"was","meta":{"score":0},"_input_hash":2018911483,"_task_hash":2094985424,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"nothin","meta":{"score":0},"_input_hash":-1242699596,"_task_hash":-514730267,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"you","meta":{"score":0},"_input_hash":731198247,"_task_hash":-800668621,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"d","meta":{"score":0},"_input_hash":-1656380824,"_task_hash":-11243002,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"goin","meta":{"score":0},"_input_hash":-2013390729,"_task_hash":994502846,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"must","meta":{"score":0},"_input_hash":484467785,"_task_hash":748886251,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"nuthin","meta":{"score":0},"_input_hash":-8249646,"_task_hash":-1743710781,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"gon","meta":{"score":0},"_input_hash":-947719476,"_task_hash":1361938789,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"all","meta":{"score":0},"_input_hash":1340842546,"_task_hash":-1642200340,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"nuff","meta":{"score":0},"_input_hash":-490535719,"_task_hash":2050439678,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"what","meta":{"score":0},"_input_hash":-591943896,"_task_hash":79519980,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"might","meta":{"score":0},"_input_hash":1322507247,"_task_hash":-1410104964,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"re","meta":{"score":0},"_input_hash":-2018819473,"_task_hash":1109415448,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"got","meta":{"score":0},"_input_hash":1518210131,"_task_hash":1673650496,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"em","meta":{"score":0},"_input_hash":1823540398,"_task_hash":-7286135,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"nt","meta":{"score":0},"_input_hash":364139271,"_task_hash":-1589990927,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"would","meta":{"score":0},"_input_hash":811903774,"_task_hash":607964841,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"wo","meta":{"score":0},"_input_hash":-2050708257,"_task_hash":70379129,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"havin","meta":{"score":0},"_input_hash":1485247698,"_task_hash":-81376937,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"it","meta":{"score":0},"_input_hash":-781753652,"_task_hash":431479912,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"where","meta":{"score":0},"_input_hash":-843605128,"_task_hash":-1987705845,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"ll","meta":{"score":0},"_input_hash":-877253534,"_task_hash":-101791,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"should","meta":{"score":0},"_input_hash":325201159,"_task_hash":-2137741126,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"let","meta":{"score":0},"_input_hash":-718232832,"_task_hash":644660553,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"ol","meta":{"score":0},"_input_hash":-345826933,"_task_hash":-383949050,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"why","meta":{"score":0},"_input_hash":-1812285969,"_task_hash":2102260338,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"i","meta":{"score":0},"_input_hash":33216936,"_task_hash":-813719403,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"m","meta":{"score":0},"_input_hash":1369651553,"_task_hash":67356726,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"got","meta":{"score":0},"_input_hash":1518210131,"_task_hash":1673650496,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"he","meta":{"score":0},"_input_hash":1355608212,"_task_hash":-160529414,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"re","meta":{"score":0},"_input_hash":-2018819473,"_task_hash":1109415448,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"when","meta":{"score":0},"_input_hash":872985765,"_task_hash":-821292595,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"might","meta":{"score":0},"_input_hash":1322507247,"_task_hash":-1410104964,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"is","meta":{"score":0},"_input_hash":1475404023,"_task_hash":-2044758638,"_session_id":null,"_view_id":"text","answer":"reject"}
+{"text":"neural_network|NOUN","word":"neural network","sense":"NOUN","meta":{"score":1.0,"sense":"NOUN"},"answer":"accept","_input_hash":2073216112,"_task_hash":-1735942216}
+{"text":"neural_networks|NOUN","word":"neural networks","sense":"NOUN","meta":{"score":0.8971999884,"sense":"NOUN"},"_input_hash":-160342458,"_task_hash":381939045,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"neural_net|NOUN","word":"neural net","sense":"NOUN","meta":{"score":0.888800025,"sense":"NOUN"},"_input_hash":327667319,"_task_hash":-78287680,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"human_brain|NOUN","word":"human brain","sense":"NOUN","meta":{"score":0.8493000269,"sense":"NOUN"},"_input_hash":-1320410847,"_task_hash":1087667266,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"fitness_function|NOUN","word":"fitness function","sense":"NOUN","meta":{"score":0.8312000036,"sense":"NOUN"},"_input_hash":-1091655408,"_task_hash":1674519913,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"training_data|NOUN","word":"training data","sense":"NOUN","meta":{"score":0.8237000108,"sense":"NOUN"},"_input_hash":127235364,"_task_hash":-1553825851,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"computation|NOUN","word":"computation","sense":"NOUN","meta":{"score":0.815500021,"sense":"NOUN"},"_input_hash":-726706238,"_task_hash":1460072598,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"human_brains|NOUN","word":"human brains","sense":"NOUN","meta":{"score":0.8119999766,"sense":"NOUN"},"_input_hash":1651332467,"_task_hash":1326010938,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"genetic_algorithms|NOUN","word":"genetic algorithms","sense":"NOUN","meta":{"score":0.8083000183,"sense":"NOUN"},"_input_hash":1573456621,"_task_hash":1341695880,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"neural_nets|NOUN","word":"neural nets","sense":"NOUN","meta":{"score":0.807099998,"sense":"NOUN"},"_input_hash":-118475804,"_task_hash":585978697,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"individual_neurons|NOUN","word":"individual neurons","sense":"NOUN","meta":{"score":0.8046000004,"sense":"NOUN"},"_input_hash":-1478547349,"_task_hash":47697619,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"biological_brains|NOUN","word":"biological brains","sense":"NOUN","meta":{"score":0.8004000187,"sense":"NOUN"},"_input_hash":1759839253,"_task_hash":2114577020,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"computer_program|NOUN","word":"computer program","sense":"NOUN","meta":{"score":0.7972999811,"sense":"NOUN"},"_input_hash":1317113466,"_task_hash":157293907,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"computations|NOUN","word":"computations","sense":"NOUN","meta":{"score":0.7953000069,"sense":"NOUN"},"_input_hash":-231334158,"_task_hash":412052368,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"information_processing|NOUN","word":"information processing","sense":"NOUN","meta":{"score":0.7926999927,"sense":"NOUN"},"_input_hash":-2066270993,"_task_hash":-120445977,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"neocortex|NOUN","word":"neocortex","sense":"NOUN","meta":{"score":0.7925999761,"sense":"NOUN"},"_input_hash":903284907,"_task_hash":-819695804,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"learning_algorithm|NOUN","word":"learning algorithm","sense":"NOUN","meta":{"score":0.7911999822,"sense":"NOUN"},"_input_hash":-527166335,"_task_hash":507435416,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"connectome|NOUN","word":"connectome","sense":"NOUN","meta":{"score":0.7897999883,"sense":"NOUN"},"_input_hash":1300852015,"_task_hash":935449209,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"biological_systems|NOUN","word":"biological systems","sense":"NOUN","meta":{"score":0.7876999974,"sense":"NOUN"},"_input_hash":-1551101839,"_task_hash":956721413,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"physical_systems|NOUN","word":"physical systems","sense":"NOUN","meta":{"score":0.7871999741,"sense":"NOUN"},"_input_hash":1687211955,"_task_hash":-2105177064,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"mathematical_model|NOUN","word":"mathematical model","sense":"NOUN","meta":{"score":0.7804999948,"sense":"NOUN"},"_input_hash":-2032882010,"_task_hash":-2043335707,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"pattern_recognition|NOUN","word":"pattern recognition","sense":"NOUN","meta":{"score":0.7792000175,"sense":"NOUN"},"_input_hash":778820464,"_task_hash":1274572172,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"single_neuron|NOUN","word":"single neuron","sense":"NOUN","meta":{"score":0.7791000009,"sense":"NOUN"},"_input_hash":-1009445147,"_task_hash":1725769533,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"biological_system|NOUN","word":"biological system","sense":"NOUN","meta":{"score":0.7764000297,"sense":"NOUN"},"_input_hash":676608932,"_task_hash":-212892046,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"genetic_algorithm|NOUN","word":"genetic algorithm","sense":"NOUN","meta":{"score":0.7763000131,"sense":"NOUN"},"_input_hash":383830497,"_task_hash":-970594035,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"physical_system|NOUN","word":"physical system","sense":"NOUN","meta":{"score":0.774600029,"sense":"NOUN"},"_input_hash":538260045,"_task_hash":-1317763794,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"neural_connections|NOUN","word":"neural connections","sense":"NOUN","meta":{"score":0.7734000087,"sense":"NOUN"},"_input_hash":-1124815141,"_task_hash":220737078,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"biological_brain|NOUN","word":"biological brain","sense":"NOUN","meta":{"score":0.7725999951,"sense":"NOUN"},"_input_hash":739171017,"_task_hash":463414485,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"mathematical_functions|NOUN","word":"mathematical functions","sense":"NOUN","meta":{"score":0.7720999718,"sense":"NOUN"},"_input_hash":698636212,"_task_hash":1894024034,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"evolutionary_algorithms|NOUN","word":"evolutionary algorithms","sense":"NOUN","meta":{"score":0.7714999914,"sense":"NOUN"},"_input_hash":-1469470725,"_task_hash":-241064547,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"artificial_brain|NOUN","word":"artificial brain","sense":"NOUN","meta":{"score":0.7709000111,"sense":"NOUN"},"_input_hash":922519583,"_task_hash":-1731517177,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"human_intelligence|NOUN","word":"human intelligence","sense":"NOUN","meta":{"score":0.7709000111,"sense":"NOUN"},"_input_hash":759673472,"_task_hash":-1417759296,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"biological_organisms|NOUN","word":"biological organisms","sense":"NOUN","meta":{"score":0.7682999969,"sense":"NOUN"},"_input_hash":1379092264,"_task_hash":-1747576558,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"heuristics|NOUN","word":"heuristics","sense":"NOUN","meta":{"score":0.7659000158,"sense":"NOUN"},"_input_hash":71895469,"_task_hash":189453605,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"image_recognition|NOUN","word":"image recognition","sense":"NOUN","meta":{"score":0.7644000053,"sense":"NOUN"},"_input_hash":1670936266,"_task_hash":-562737012,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"probability_distributions|NOUN","word":"probability distributions","sense":"NOUN","meta":{"score":0.7634999752,"sense":"NOUN"},"_input_hash":-499919643,"_task_hash":-1150939390,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"neurons|NOUN","word":"neurons","sense":"NOUN","meta":{"score":0.7627999783,"sense":"NOUN"},"_input_hash":2117136566,"_task_hash":2110788140,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"sufficient_complexity|NOUN","word":"sufficient complexity","sense":"NOUN","meta":{"score":0.7619000077,"sense":"NOUN"},"_input_hash":1199185788,"_task_hash":-786998044,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"artificial_neural_networks|NOUN","word":"artificial neural networks","sense":"NOUN","meta":{"score":0.7613000274,"sense":"NOUN"},"_input_hash":-1724947595,"_task_hash":-1429136603,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"sensory_data|NOUN","word":"sensory data","sense":"NOUN","meta":{"score":0.7610999942,"sense":"NOUN"},"_input_hash":-1747845465,"_task_hash":111790459,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"complex_algorithms|NOUN","word":"complex algorithms","sense":"NOUN","meta":{"score":0.7595999837,"sense":"NOUN"},"_input_hash":452914458,"_task_hash":-310781606,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"algorithm|NOUN","word":"algorithm","sense":"NOUN","meta":{"score":0.7572000027,"sense":"NOUN"},"_input_hash":511803611,"_task_hash":-248533745,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"complex_systems|NOUN","word":"complex systems","sense":"NOUN","meta":{"score":0.7547000051,"sense":"NOUN"},"_input_hash":542924411,"_task_hash":-1925344511,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"neural_activity|NOUN","word":"neural activity","sense":"NOUN","meta":{"score":0.7541000247,"sense":"NOUN"},"_input_hash":-1307763834,"_task_hash":-2069331138,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"algorithms|NOUN","word":"algorithms","sense":"NOUN","meta":{"score":0.7537999749,"sense":"NOUN"},"_input_hash":1812822831,"_task_hash":-794805211,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"deterministically|ADV","word":"deterministically","sense":"ADV","meta":{"score":0.7536000013,"sense":"ADV"},"_input_hash":-1061259057,"_task_hash":-114960665,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"ANNs|NOUN","word":"ANNs","sense":"NOUN","meta":{"score":0.7531999946,"sense":"NOUN"},"_input_hash":309957396,"_task_hash":-1564079670,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"learning_algorithms|NOUN","word":"learning algorithms","sense":"NOUN","meta":{"score":0.7509999871,"sense":"NOUN"},"_input_hash":-313068494,"_task_hash":1238243550,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"algorithmically|ADV","word":"algorithmically","sense":"ADV","meta":{"score":0.7506999969,"sense":"ADV"},"_input_hash":1562091384,"_task_hash":1076155671,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"deep_learning|NOUN","word":"deep learning","sense":"NOUN","meta":{"score":0.8554999828,"sense":"NOUN"},"_input_hash":-1592488466,"_task_hash":2076829025,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"machine_learning|NOUN","word":"machine learning","sense":"NOUN","meta":{"score":0.8349999785,"sense":"NOUN"},"_input_hash":-2107036536,"_task_hash":-381813870,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"computer_programs|NOUN","word":"computer programs","sense":"NOUN","meta":{"score":0.8090999722,"sense":"NOUN"},"_input_hash":1030041860,"_task_hash":1144654255,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"computer_vision|NOUN","word":"computer vision","sense":"NOUN","meta":{"score":0.8059999943,"sense":"NOUN"},"_input_hash":-585629917,"_task_hash":-1350713328,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"machine_learning_algorithms|NOUN","word":"machine learning algorithms","sense":"NOUN","meta":{"score":0.8026000261,"sense":"NOUN"},"_input_hash":-1933158904,"_task_hash":1474566225,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"artificial_intelligence|NOUN","word":"artificial intelligence","sense":"NOUN","meta":{"score":0.8001999855,"sense":"NOUN"},"_input_hash":-846084962,"_task_hash":-2064786862,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"AI_systems|NOUN","word":"AI systems","sense":"NOUN","meta":{"score":0.7979000211,"sense":"NOUN"},"_input_hash":1103152113,"_task_hash":1920173579,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"backpropagation|NOUN","word":"backpropagation","sense":"NOUN","meta":{"score":0.796299994,"sense":"NOUN"},"_input_hash":1657507157,"_task_hash":-813649540,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"natural_language_processing|NOUN","word":"natural language processing","sense":"NOUN","meta":{"score":0.7961999774,"sense":"NOUN"},"_input_hash":679294529,"_task_hash":2002756982,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"machine_vision|NOUN","word":"machine vision","sense":"NOUN","meta":{"score":0.7954999804,"sense":"NOUN"},"_input_hash":1624311700,"_task_hash":-255882948,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"Turing_machines|NOUN","word":"Turing machines","sense":"NOUN","meta":{"score":0.7954000235,"sense":"NOUN"},"_input_hash":-1915503930,"_task_hash":1323724300,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"unsupervised_learning|NOUN","word":"unsupervised learning","sense":"NOUN","meta":{"score":0.793200016,"sense":"NOUN"},"_input_hash":581862214,"_task_hash":-840657905,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"backprop|NOUN","word":"backprop","sense":"NOUN","meta":{"score":0.7919999957,"sense":"NOUN"},"_input_hash":2123728039,"_task_hash":-326637719,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"simulations|NOUN","word":"simulations","sense":"NOUN","meta":{"score":0.7911999822,"sense":"NOUN"},"_input_hash":-376248382,"_task_hash":872650538,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"quantum_computing|NOUN","word":"quantum computing","sense":"NOUN","meta":{"score":0.7876999974,"sense":"NOUN"},"_input_hash":1105399114,"_task_hash":796707829,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"quantum_computation|NOUN","word":"quantum computation","sense":"NOUN","meta":{"score":0.7868000269,"sense":"NOUN"},"_input_hash":1884739246,"_task_hash":338683170,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"lambda_calculus|NOUN","word":"lambda calculus","sense":"NOUN","meta":{"score":0.7853999734,"sense":"NOUN"},"_input_hash":-1392574520,"_task_hash":250770618,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"parallel_processing|NOUN","word":"parallel processing","sense":"NOUN","meta":{"score":0.7839999795,"sense":"NOUN"},"_input_hash":1736652507,"_task_hash":600561404,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"computer_simulations|NOUN","word":"computer simulations","sense":"NOUN","meta":{"score":0.7804999948,"sense":"NOUN"},"_input_hash":-2106370398,"_task_hash":739526712,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"computational_models|NOUN","word":"computational models","sense":"NOUN","meta":{"score":0.779399991,"sense":"NOUN"},"_input_hash":268456910,"_task_hash":137894041,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"mathematical_models|NOUN","word":"mathematical models","sense":"NOUN","meta":{"score":0.7792000175,"sense":"NOUN"},"_input_hash":-108171284,"_task_hash":-1516433370,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"machine_intelligence|NOUN","word":"machine intelligence","sense":"NOUN","meta":{"score":0.7791000009,"sense":"NOUN"},"_input_hash":-1217445132,"_task_hash":-627335896,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"iteratively|ADV","word":"iteratively","sense":"ADV","meta":{"score":0.77700001,"sense":"ADV"},"_input_hash":1988134512,"_task_hash":-872159513,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"predictive_models|NOUN","word":"predictive models","sense":"NOUN","meta":{"score":0.7767999768,"sense":"NOUN"},"_input_hash":183603227,"_task_hash":-1805236662,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"RNNs|NOUN","word":"RNNs","sense":"NOUN","meta":{"score":0.7761999965,"sense":"NOUN"},"_input_hash":709991632,"_task_hash":-172579164,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"cellular_automata|NOUN","word":"cellular automata","sense":"NOUN","meta":{"score":0.7760000229,"sense":"NOUN"},"_input_hash":-536851375,"_task_hash":-182893057,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"reinforcement_learning|NOUN","word":"reinforcement learning","sense":"NOUN","meta":{"score":0.7753999829,"sense":"NOUN"},"_input_hash":309528292,"_task_hash":-148853587,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"quantum_computer|NOUN","word":"quantum computer","sense":"NOUN","meta":{"score":0.7753000259,"sense":"NOUN"},"_input_hash":721128169,"_task_hash":-1687324224,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"quantum_computers|NOUN","word":"quantum computers","sense":"NOUN","meta":{"score":0.7752000093,"sense":"NOUN"},"_input_hash":1832293551,"_task_hash":959831995,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"finite_state_machines|NOUN","word":"finite state machines","sense":"NOUN","meta":{"score":0.7749999762,"sense":"NOUN"},"_input_hash":2067080263,"_task_hash":-1115755940,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"SVM|ORG","word":"SVM","sense":"ORG","meta":{"score":0.7735999823,"sense":"ORG"},"_input_hash":926515567,"_task_hash":-1233359014,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"turing_machine|NOUN","word":"turing machine","sense":"NOUN","meta":{"score":0.7728999853,"sense":"NOUN"},"_input_hash":1908578143,"_task_hash":1255316557,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"statistical_models|NOUN","word":"statistical models","sense":"NOUN","meta":{"score":0.7725999951,"sense":"NOUN"},"_input_hash":1606212968,"_task_hash":257078366,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"computational_complexity|NOUN","word":"computational complexity","sense":"NOUN","meta":{"score":0.7725999951,"sense":"NOUN"},"_input_hash":-771373447,"_task_hash":426987470,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"parallel_computing|NOUN","word":"parallel computing","sense":"NOUN","meta":{"score":0.7713999748,"sense":"NOUN"},"_input_hash":191453569,"_task_hash":-38807853,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"distributed_computing|NOUN","word":"distributed computing","sense":"NOUN","meta":{"score":0.7699000239,"sense":"NOUN"},"_input_hash":-14894255,"_task_hash":-422909919,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"NNs|NOUN","word":"NNs","sense":"NOUN","meta":{"score":0.7695999742,"sense":"NOUN"},"_input_hash":-2056769799,"_task_hash":-1817899204,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"SVMs|NOUN","word":"SVMs","sense":"NOUN","meta":{"score":0.7695000172,"sense":"NOUN"},"_input_hash":249005043,"_task_hash":-342068595,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"protein_folding|NOUN","word":"protein folding","sense":"NOUN","meta":{"score":0.769299984,"sense":"NOUN"},"_input_hash":-122488253,"_task_hash":2079830630,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"gradient_descent|NOUN","word":"gradient descent","sense":"NOUN","meta":{"score":0.7688000202,"sense":"NOUN"},"_input_hash":1773996794,"_task_hash":-297463065,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"supervised_learning|NOUN","word":"supervised learning","sense":"NOUN","meta":{"score":0.7681999803,"sense":"NOUN"},"_input_hash":632551848,"_task_hash":1983113891,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"decision_trees|NOUN","word":"decision trees","sense":"NOUN","meta":{"score":0.7677999735,"sense":"NOUN"},"_input_hash":1733690317,"_task_hash":1745659287,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"comparison_process|NOUN","word":"comparison process","sense":"NOUN","meta":{"score":0.7673000097,"sense":"NOUN"},"_input_hash":-906823434,"_task_hash":-528078103,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"complex_behaviors|NOUN","word":"complex behaviors","sense":"NOUN","meta":{"score":0.766900003,"sense":"NOUN"},"_input_hash":-1114203009,"_task_hash":-1821573951,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"strong_AI|NOUN","word":"strong AI","sense":"NOUN","meta":{"score":0.7667999864,"sense":"NOUN"},"_input_hash":277391246,"_task_hash":-543965564,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"Bayesian_inference|NOUN","word":"Bayesian inference","sense":"NOUN","meta":{"score":0.7667000294,"sense":"NOUN"},"_input_hash":1314646066,"_task_hash":175461861,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"stochastic|ADJ","word":"stochastic","sense":"ADJ","meta":{"score":0.7663999796,"sense":"ADJ"},"_input_hash":285063480,"_task_hash":-1541888813,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"complex_system|NOUN","word":"complex system","sense":"NOUN","meta":{"score":0.7659000158,"sense":"NOUN"},"_input_hash":1763720330,"_task_hash":1310618693,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"complexity_theory|NOUN","word":"complexity theory","sense":"NOUN","meta":{"score":0.7652000189,"sense":"NOUN"},"_input_hash":1786667802,"_task_hash":-992266429,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"abstractions|NOUN","word":"abstractions","sense":"NOUN","meta":{"score":0.7645000219,"sense":"NOUN"},"_input_hash":-19373359,"_task_hash":323710218,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"problem_space|NOUN","word":"problem space","sense":"NOUN","meta":{"score":0.7639999986,"sense":"NOUN"},"_input_hash":1451865425,"_task_hash":1143869965,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"narrow_AI|NOUN","word":"narrow AI","sense":"NOUN","meta":{"score":0.763800025,"sense":"NOUN"},"_input_hash":-1139544865,"_task_hash":-1910327995,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"simple_algorithms|NOUN","word":"simple algorithms","sense":"NOUN","meta":{"score":0.7637000084,"sense":"NOUN"},"_input_hash":1093452053,"_task_hash":1487701976,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"complex_mathematics|NOUN","word":"complex mathematics","sense":"NOUN","meta":{"score":0.7635999918,"sense":"NOUN"},"_input_hash":-1926206124,"_task_hash":-744799069,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"mathematical_framework|NOUN","word":"mathematical framework","sense":"NOUN","meta":{"score":0.7634999752,"sense":"NOUN"},"_input_hash":-409064999,"_task_hash":809312502,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"logic_gates|NOUN","word":"logic gates","sense":"NOUN","meta":{"score":0.7624999881,"sense":"NOUN"},"_input_hash":-274935574,"_task_hash":419938280,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"fuzzy_logic|NOUN","word":"fuzzy logic","sense":"NOUN","meta":{"score":0.7619000077,"sense":"NOUN"},"_input_hash":-1082277471,"_task_hash":971103668,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"simulation_program|NOUN","word":"simulation program","sense":"NOUN","meta":{"score":0.761500001,"sense":"NOUN"},"_input_hash":-2126182961,"_task_hash":-1595931175,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"mathematical_operations|NOUN","word":"mathematical operations","sense":"NOUN","meta":{"score":0.7605000138,"sense":"NOUN"},"_input_hash":706991560,"_task_hash":2146462510,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"FPGAs|NOUN","word":"FPGAs","sense":"NOUN","meta":{"score":0.7603999972,"sense":"NOUN"},"_input_hash":380850520,"_task_hash":-8522065,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"basic_building_blocks|NOUN","word":"basic building blocks","sense":"NOUN","meta":{"score":0.7598999739,"sense":"NOUN"},"_input_hash":1187527807,"_task_hash":1918604909,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"human_cognition|NOUN","word":"human cognition","sense":"NOUN","meta":{"score":0.7595000267,"sense":"NOUN"},"_input_hash":-1472026555,"_task_hash":511879683,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"random_processes|NOUN","word":"random processes","sense":"NOUN","meta":{"score":0.7592999935,"sense":"NOUN"},"_input_hash":436421327,"_task_hash":56880757,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"natural_language|NOUN","word":"natural language","sense":"NOUN","meta":{"score":0.7588999867,"sense":"NOUN"},"_input_hash":-1656388173,"_task_hash":1433920912,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"other_algorithms|NOUN","word":"other algorithms","sense":"NOUN","meta":{"score":0.7588999867,"sense":"NOUN"},"_input_hash":1936176820,"_task_hash":-25670709,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"complex_functions|NOUN","word":"complex functions","sense":"NOUN","meta":{"score":0.7585999966,"sense":"NOUN"},"_input_hash":1359682905,"_task_hash":-2011528090,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"logistic_regression|NOUN","word":"logistic regression","sense":"NOUN","meta":{"score":0.8140000105,"sense":"NOUN"},"_input_hash":1642957147,"_task_hash":1912746813,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"LSTM|ORG","word":"LSTM","sense":"ORG","meta":{"score":0.8119999766,"sense":"ORG"},"_input_hash":482522666,"_task_hash":156938854,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"state_machines|NOUN","word":"state machines","sense":"NOUN","meta":{"score":0.804099977,"sense":"NOUN"},"_input_hash":1643825329,"_task_hash":511940590,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"basic_algorithms|NOUN","word":"basic algorithms","sense":"NOUN","meta":{"score":0.8037999868,"sense":"NOUN"},"_input_hash":-1243754149,"_task_hash":652455925,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"computing|VERB","word":"computing","sense":"VERB","meta":{"score":0.7967000008,"sense":"VERB"},"_input_hash":103455134,"_task_hash":-43732852,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"boolean_logic|NOUN","word":"boolean logic","sense":"NOUN","meta":{"score":0.7964000106,"sense":"NOUN"},"_input_hash":-1135731581,"_task_hash":-1174938946,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"computational|ADJ","word":"computational","sense":"ADJ","meta":{"score":0.7961999774,"sense":"ADJ"},"_input_hash":1605231035,"_task_hash":-1283708202,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"topology|NOUN","word":"topology","sense":"NOUN","meta":{"score":0.7960000038,"sense":"NOUN"},"_input_hash":1183486010,"_task_hash":-904704114,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"dynamic_programming|NOUN","word":"dynamic programming","sense":"NOUN","meta":{"score":0.7954000235,"sense":"NOUN"},"_input_hash":1898988806,"_task_hash":-1394546214,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"signal_processing|NOUN","word":"signal processing","sense":"NOUN","meta":{"score":0.793900013,"sense":"NOUN"},"_input_hash":2041971023,"_task_hash":-936530608,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"real_world_applications|NOUN","word":"real world applications","sense":"NOUN","meta":{"score":0.7928000093,"sense":"NOUN"},"_input_hash":-749044901,"_task_hash":1932687336,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"mathematical_methods|NOUN","word":"mathematical methods","sense":"NOUN","meta":{"score":0.7922999859,"sense":"NOUN"},"_input_hash":-685186284,"_task_hash":-1242315698,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"control_theory|NOUN","word":"control theory","sense":"NOUN","meta":{"score":0.7921000123,"sense":"NOUN"},"_input_hash":-696801847,"_task_hash":-295480121,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"relational_databases|NOUN","word":"relational databases","sense":"NOUN","meta":{"score":0.7899000049,"sense":"NOUN"},"_input_hash":-2004147165,"_task_hash":2131224112,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"various_algorithms|NOUN","word":"various algorithms","sense":"NOUN","meta":{"score":0.7899000049,"sense":"NOUN"},"_input_hash":995624589,"_task_hash":1427731314,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"numerical_methods|NOUN","word":"numerical methods","sense":"NOUN","meta":{"score":0.7896000147,"sense":"NOUN"},"_input_hash":1376937719,"_task_hash":81073974,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"matrix_multiplication|NOUN","word":"matrix multiplication","sense":"NOUN","meta":{"score":0.7892000079,"sense":"NOUN"},"_input_hash":1737348762,"_task_hash":1516680969,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"large_data_sets|NOUN","word":"large data sets","sense":"NOUN","meta":{"score":0.7886999846,"sense":"NOUN"},"_input_hash":-242871822,"_task_hash":-628222094,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"computational_methods|NOUN","word":"computational methods","sense":"NOUN","meta":{"score":0.7881000042,"sense":"NOUN"},"_input_hash":-2102461886,"_task_hash":-657633825,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"algorithmic|ADJ","word":"algorithmic","sense":"ADJ","meta":{"score":0.787800014,"sense":"ADJ"},"_input_hash":-1607624112,"_task_hash":1251165882,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"data_analysis|NOUN","word":"data analysis","sense":"NOUN","meta":{"score":0.787800014,"sense":"NOUN"},"_input_hash":527622331,"_task_hash":836639508,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"RNN|NOUN","word":"RNN","sense":"NOUN","meta":{"score":0.7872999907,"sense":"NOUN"},"_input_hash":1378741512,"_task_hash":-65494074,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"data_processing|NOUN","word":"data processing","sense":"NOUN","meta":{"score":0.7868000269,"sense":"NOUN"},"_input_hash":2060747866,"_task_hash":12658212,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"practical_applications|NOUN","word":"practical applications","sense":"NOUN","meta":{"score":0.7858999968,"sense":"NOUN"},"_input_hash":79761643,"_task_hash":-890464176,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"complex_analysis|NOUN","word":"complex analysis","sense":"NOUN","meta":{"score":0.78549999,"sense":"NOUN"},"_input_hash":-591567848,"_task_hash":779019053,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"mathematical_modeling|NOUN","word":"mathematical modeling","sense":"NOUN","meta":{"score":0.7849000096,"sense":"NOUN"},"_input_hash":-871533782,"_task_hash":2016317367,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"mathematical_concepts|NOUN","word":"mathematical concepts","sense":"NOUN","meta":{"score":0.7839999795,"sense":"NOUN"},"_input_hash":-615610279,"_task_hash":-487969570,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"data_structures|NOUN","word":"data structures","sense":"NOUN","meta":{"score":0.7839000225,"sense":"NOUN"},"_input_hash":794773254,"_task_hash":-830610348,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"lookup_tables|NOUN","word":"lookup tables","sense":"NOUN","meta":{"score":0.7833999991,"sense":"NOUN"},"_input_hash":74539311,"_task_hash":-573595369,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"type_theory|NOUN","word":"type theory","sense":"NOUN","meta":{"score":0.7825000286,"sense":"NOUN"},"_input_hash":2002456453,"_task_hash":-2126275898,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"linear_systems|NOUN","word":"linear systems","sense":"NOUN","meta":{"score":0.7813000083,"sense":"NOUN"},"_input_hash":1944198125,"_task_hash":-1062989878,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"arithmetic|NOUN","word":"arithmetic","sense":"NOUN","meta":{"score":0.7811999917,"sense":"NOUN"},"_input_hash":-66001988,"_task_hash":1281828300,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"complex_math|NOUN","word":"complex math","sense":"NOUN","meta":{"score":0.780099988,"sense":"NOUN"},"_input_hash":-1911515581,"_task_hash":-1654308487,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"graph_theory|NOUN","word":"graph theory","sense":"NOUN","meta":{"score":0.7795000076,"sense":"NOUN"},"_input_hash":-516121810,"_task_hash":-779761513,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"object_recognition|NOUN","word":"object recognition","sense":"NOUN","meta":{"score":0.7795000076,"sense":"NOUN"},"_input_hash":-2131188336,"_task_hash":811461753,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"programming_languages|NOUN","word":"programming languages","sense":"NOUN","meta":{"score":0.7784000039,"sense":"NOUN"},"_input_hash":-666989736,"_task_hash":-1543396919,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"parallelization|NOUN","word":"parallelization","sense":"NOUN","meta":{"score":0.7779999971,"sense":"NOUN"},"_input_hash":-1534185698,"_task_hash":-414713637,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"category_theory|NOUN","word":"category theory","sense":"NOUN","meta":{"score":0.7778000236,"sense":"NOUN"},"_input_hash":-2103438003,"_task_hash":-946608483,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"matrices|NOUN","word":"matrices","sense":"NOUN","meta":{"score":0.777700007,"sense":"NOUN"},"_input_hash":1469316484,"_task_hash":98840739,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"MCMC|ORG","word":"MCMC","sense":"ORG","meta":{"score":0.7773000002,"sense":"ORG"},"_input_hash":1992951261,"_task_hash":-2002336259,"_session_id":null,"_view_id":"html","answer":"accept"}
+{"text":"time_complexity|NOUN","word":"time complexity","sense":"NOUN","meta":{"score":0.7764999866,"sense":"NOUN"},"_input_hash":1861635269,"_task_hash":-2137638909,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"datasets|NOUN","word":"datasets","sense":"NOUN","meta":{"score":0.7763000131,"sense":"NOUN"},"_input_hash":-1935260918,"_task_hash":-679944954,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"matrix_operations|NOUN","word":"matrix operations","sense":"NOUN","meta":{"score":0.7754999995,"sense":"NOUN"},"_input_hash":1826928171,"_task_hash":1683628295,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"numerical_analysis|NOUN","word":"numerical analysis","sense":"NOUN","meta":{"score":0.7752000093,"sense":"NOUN"},"_input_hash":-890635509,"_task_hash":-1126874309,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"MATLAB|ORG","word":"MATLAB","sense":"ORG","meta":{"score":0.7875999808,"sense":"ORG"},"_input_hash":58671369,"_task_hash":-1418720075,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"computer_architecture|NOUN","word":"computer architecture","sense":"NOUN","meta":{"score":0.7868999839,"sense":"NOUN"},"_input_hash":837210475,"_task_hash":987301589,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"many_algorithms|NOUN","word":"many algorithms","sense":"NOUN","meta":{"score":0.7840999961,"sense":"NOUN"},"_input_hash":-2082433538,"_task_hash":301195988,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"Fourier_transforms|NOUN","word":"Fourier transforms","sense":"NOUN","meta":{"score":0.7833999991,"sense":"NOUN"},"_input_hash":1067371207,"_task_hash":1267886666,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"dependent_types|NOUN","word":"dependent types","sense":"NOUN","meta":{"score":0.782400012,"sense":"NOUN"},"_input_hash":-53975985,"_task_hash":1854087263,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"matrix_math|NOUN","word":"matrix math","sense":"NOUN","meta":{"score":0.7785000205,"sense":"NOUN"},"_input_hash":2125274819,"_task_hash":435101634,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"large_datasets|NOUN","word":"large datasets","sense":"NOUN","meta":{"score":0.77700001,"sense":"NOUN"},"_input_hash":-1782610135,"_task_hash":-2088336677,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"linear_regression|NOUN","word":"linear regression","sense":"NOUN","meta":{"score":0.7767000198,"sense":"NOUN"},"_input_hash":-1116490961,"_task_hash":1286814081,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"Fourier_analysis|NOUN","word":"Fourier analysis","sense":"NOUN","meta":{"score":0.7764999866,"sense":"NOUN"},"_input_hash":1870765505,"_task_hash":286217475,"_session_id":null,"_view_id":"html","answer":"reject"}
+{"text":"set_theory|NOUN","word":"set theory","sense":"NOUN","meta":{"score":0.7789999843,"sense":"NOUN"},"_input_hash":1603971363,"_task_hash":1997134572,"_session_id":null,"_view_id":"html","answer":"reject"}
