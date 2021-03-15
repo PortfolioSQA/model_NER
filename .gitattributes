@@ -1,3 +1,4 @@
 vector filter=lfs diff=lfs merge=lfs -text
 algo_model2/vocab filter=lfs diff=lfs merge=lfs -text
 algo_model2/vocab/** filter=lfs diff=lfs merge=lfs -text
+algo_model3/vocab/** filter=lfs diff=lfs merge=lfs -text
